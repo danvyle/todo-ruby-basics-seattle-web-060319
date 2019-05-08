@@ -10,7 +10,7 @@ def argue(name)
   name
 end
 
-def greeting(height, age)
+def greeting(greeting, name)
   greeting
 end
 
