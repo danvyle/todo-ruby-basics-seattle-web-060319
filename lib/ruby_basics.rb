@@ -1,5 +1,5 @@
 def division(num1, num2)
- num2 % num1
+ num1 / num2
 end
 
 def assign_variable(value)
@@ -10,7 +10,7 @@ def argue(name)
   name
 end
 
-def greeting(argument1, argument2)
+def greeting(height, age)
   greeting
 end
 
