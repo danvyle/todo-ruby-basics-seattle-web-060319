@@ -1,5 +1,5 @@
 def division(num1, num2)
- num2 / num1
+ num2 % num1
 end
 
 def assign_variable(value)
@@ -10,16 +10,16 @@ def argue(name)
   name
 end
 
-def greeting(argument1, argument2)
+def greeting(argument1, nil)
   greeting
 end
 
 def return_a_value
-  puts "Nice"
+  "Nice"
 end
 
 def last_evaluated_value
-  puts "expert"
+  "expert"
 end
 
 def pizza_party(toppings = "cheese")
