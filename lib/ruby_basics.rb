@@ -6,22 +6,22 @@ def assign_variable(value)
   variable = value
 end
 
-def argue
-  
+def argue(name)
+  name
 end
 
-def greeting
-
+def greeting(argument1, argument2)
+  greeting
 end
 
 def return_a_value
-
+  puts "Nice"
 end
 
 def last_evaluated_value
-
+  puts "expert"
 end
 
-def pizza_party
-
+def pizza_party(toppings = "cheese")
+  toppings
 end
